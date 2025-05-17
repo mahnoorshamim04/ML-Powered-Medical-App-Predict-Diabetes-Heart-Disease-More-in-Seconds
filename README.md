@@ -43,19 +43,26 @@ This project is a **Multi-Disease Prediction Web App** built using **Python**, *
 
 ## 📁 Project Structure
 ├── Models/
+
 │ ├── diabetes_model.sav
+
 │ ├── heart_disease_model.sav
+
 │ ├── lungs_disease_model.sav
+
 │ ├── parkinsons_model.sav
+
 │ └── Thyroid_model.sav
+
 ├── app.py
+
 ├── README.md
 
 ---
 
 ## ⚙️ Installation
 
-1. **Clone the Repository**
+**Clone the Repository**
 ```bash
 git clone https://github.com/your-username/disease-prediction-streamlit.git
 cd disease-prediction-streamlit
@@ -69,20 +76,38 @@ pip install -r requirements.txt
 streamlit run app.py
 Sample Input Values
 Use the YouTube video or Testing_Values.md file (if added) to try out working examples for each disease.
----
 
-## 📚**Datasets Used**
-Diabetes: Pima Indians Diabetes Dataset
 
-Heart: UCI Heart Disease Dataset
 
-Parkinson’s: UCI Parkinson’s Dataset
+**📚 Datasets Used**
+Pima Indians Diabetes Dataset
 
-Lung Cancer: Symptom Dataset
+Cleveland Heart Disease Dataset
 
-Thyroid: UCI Hypothyroid Dataset
+UCI Parkinson’s Dataset
 
-**🙋‍♂️ Author**
-MAHNOOR SHAMIM
+Lung Cancer Symptom Dataset
+
+Hypothyroid Dataset
+
+(All datasets are publicly available from UCI Machine Learning Repository or Kaggle.)
+
+🙋‍♂️ Author
+ MAHNOORSHAMIM
+📧 mahnoorshamim04@gmail.com
+🌐 LinkedIn |  www.linkedin.com/in/mahnoor-shamim-00128a278
+
+📃 License
+This project is open source and available under the MIT License.
+
+⭐️ Show Your Support
+If you liked this project:
+
+🌟 Star this repo
+🍴 Fork it
+💬 Share it
+
+Let me know if you'd like to also include a separate `Testing_Values.md` file or deploy instructio
+
 📧 mahnoorshamim04@gmail.com
 🌐 www.linkedin.com/in/mahnoor-shamim-00128a278
