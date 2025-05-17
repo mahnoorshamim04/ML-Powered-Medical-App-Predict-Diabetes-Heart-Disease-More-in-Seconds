@@ -62,7 +62,6 @@ cd disease-prediction-streamlit
 
 **Install Dependencies**
 
-
 pip install -r requirements.txt
 
 **Run the App**
@@ -70,8 +69,9 @@ pip install -r requirements.txt
 streamlit run app.py
 Sample Input Values
 Use the YouTube video or Testing_Values.md file (if added) to try out working examples for each disease.
+---
 
-📚** Datasets Used**
+## 📚**Datasets Used**
 Diabetes: Pima Indians Diabetes Dataset
 
 Heart: UCI Heart Disease Dataset
@@ -82,7 +82,7 @@ Lung Cancer: Symptom Dataset
 
 Thyroid: UCI Hypothyroid Dataset
 
-🙋‍♂️ Author
+**🙋‍♂️ Author**
 MAHNOOR SHAMIM
 📧 mahnoorshamim04@gmail.com
 🌐 www.linkedin.com/in/mahnoor-shamim-00128a278
